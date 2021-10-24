@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*.Rproj
+*.docx
+altair.html
+plotly.html
